@@ -16,7 +16,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 1
+              Imobiliária Edson Negócios Imobiliários
             </a>
             {/* Sua imobiliária aqui */}
 
@@ -26,7 +26,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 2
+              Imobiliária Martendal
             </a>
             {/* Sua imobiliária aqui */}
 
@@ -36,7 +36,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 3
+              Imobiliária Costa
             </a>
             {/* Sua imobiliária aqui */}
 
@@ -46,7 +46,7 @@ export const App = () => {
             target="_blank"
             className="bg-white text-black py-3 px-10 text-center mt-12 flex justify-center items-center gap-3 rounded-xl mb-12"
             >
-              Imobiliaria 4
+              Imobiliária XP
             </a>
             {/* Sua imobiliária aqui */}
 
